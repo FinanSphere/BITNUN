@@ -1,0 +1,3 @@
+[build]
+  publish = "build"   # Assicurati che la directory "build" esista nel tuo progetto
+  command = "npm run build"

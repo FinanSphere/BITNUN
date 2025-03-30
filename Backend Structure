@@ -1,0 +1,7 @@
+bitnun-backend/
+  ├── controllers/
+  ├── routes/
+  ├── models/
+  ├── .env
+  ├── server.js
+  └── package.json

@@ -1,0 +1,6 @@
+[build]
+  base    = "/"
+  publish = "build"  # Assicurati che il percorso 'build' sia corretto
+  command = "npm run build"
+[context.production.environment]
+  NODE_VERSION = "14"
